@@ -11,11 +11,11 @@ export default {
   },
   speaker: {
     // 小米账号：小米 ID（不是手机号/邮箱）
-    userId: "8488055",
+    userId: "",
     // ↓↓↓ 把下面这行引号里的文字替换成你的小米账号密码 ↓↓↓
-    password: "Success70",
+    password: "",
     // 小爱音箱 DID 或米家中的设备名称
-    did: "小爱音箱mini",
+    did: "",
 
     // LX01 推荐参数
     ttsCommand: [5, 1],
