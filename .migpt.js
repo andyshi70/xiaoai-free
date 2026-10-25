@@ -29,7 +29,7 @@ export default {
     callAIKeywords: ["请", "你", "傻妞"],
 
     // 提示语；不需要可以改成 []
-    onAIAsking: ["让我先想想"],
+    onAIAsking: ["亲，稍等"],
     onAIError: ["出错了，请稍后再试吧！"],
 
     // 调试开关：首次排查设备 DID 时可临时打开
